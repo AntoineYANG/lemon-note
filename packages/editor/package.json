@@ -1,0 +1,8 @@
+{
+  "name": "@lemon-note/editor",
+  "version": "0.1.0-alpha.20250303",
+  "description": "Note editor of LemonNote.",
+  "repository": "https://github.com/AntoineYANG/lemon-note/tree/main/packages/editor",
+  "author": "kyusho antoineyang99@gmail.com",
+  "license": "MIT"
+}

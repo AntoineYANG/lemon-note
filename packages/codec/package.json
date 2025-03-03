@@ -1,0 +1,15 @@
+{
+  "name": "@lemon-note/codec",
+  "version": "0.1.0-alpha.20250303",
+  "description": "Core type declarations, encoder and decoder of LemonNote.",
+  "repository": "https://github.com/AntoineYANG/lemon-note/tree/main/packages/codec",
+  "author": "kyusho antoineyang99@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}

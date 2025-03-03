@@ -1,0 +1,8 @@
+{
+  "name": "@lemon-note/webapp",
+  "version": "0.1.0-alpha.20250303",
+  "description": "A lightweight, open-source handwritten note management application designed for personal users, with the flexibility to expand into collaborative functionality in future versions.",
+  "repository": "https://github.com/AntoineYANG/lemon-note/tree/main/apps/web",
+  "author": "kyusho antoineyang99@gmail.com",
+  "license": "MIT"
+}
